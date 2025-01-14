@@ -34,11 +34,6 @@ var API = "https://domain-name.com/api/";</br>
 var stratumAddress = "stratum+tcp://domain-name.com:";</br>
 
 
-
-<b>Live Miningcore.WebUI</b></br>
-My pool website can be found at https://miningcore.eu
-
-
 <b>Suggestion</b></br>
 Do you have any idea what to add more to the website, or you found a bug
 let me know and we will see what we can do.
